@@ -1,6 +1,7 @@
 package org.example;
 
 public class Main {
+    /*Coment the upgrade code */
         static byte a_Prim;
         static short b_Prim;
         static char c_Prim;
